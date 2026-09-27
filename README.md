@@ -16,53 +16,82 @@
 
 ---
 
-## 📸 Screenshots & UI Showcase
+## 📱 App Interface & Screenshots Gallery
 
-<table align="center" width="100%">
+<table align="center" style="border-collapse: collapse; border: none;">
   <tr>
-    <td width="50%" align="center">
-      <b>🏠 Home Dashboard & Cloud Storage Analytics</b><br/><br/>
-      <img src="assets/screenshots/home-dashboard.jpg" alt="Home Dashboard" width="100%" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" /><br/>
-      <sub>Real-time cloud metrics, storage breakdown, quick access categories, and recent activity.</sub>
+    <td align="center" width="25%" style="vertical-align: top; padding: 10px;">
+      <a href="assets/screenshots/01-home-dashboard.jpg" target="_blank">
+        <img src="assets/screenshots/01-home-dashboard.jpg" alt="Home Dashboard" width="220" style="border-radius: 12px; border: 1px solid rgba(255,255,255,0.15); box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
+      </a>
+      <br/>
+      <b>🏠 Home Dashboard</b><br/>
+      <sub>Storage metrics & analytics</sub>
     </td>
-    <td width="50%" align="center">
-      <b>📁 File Explorer & Virtual Folder Tree</b><br/><br/>
-      <img src="assets/screenshots/file-manager.jpg" alt="File Manager" width="100%" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" /><br/>
-      <sub>Seamless nested folder organization, instant search, sorting, batch operations, and tags.</sub>
+    <td align="center" width="25%" style="vertical-align: top; padding: 10px;">
+      <a href="assets/screenshots/02-file-browser.jpg" target="_blank">
+        <img src="assets/screenshots/02-file-browser.jpg" alt="File Browser" width="220" style="border-radius: 12px; border: 1px solid rgba(255,255,255,0.15); box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
+      </a>
+      <br/>
+      <b>📁 File Explorer</b><br/>
+      <sub>Folders & search</sub>
+    </td>
+    <td align="center" width="25%" style="vertical-align: top; padding: 10px;">
+      <a href="assets/screenshots/03-upload-transfers.jpg" target="_blank">
+        <img src="assets/screenshots/03-upload-transfers.jpg" alt="Upload System" width="220" style="border-radius: 12px; border: 1px solid rgba(255,255,255,0.15); box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
+      </a>
+      <br/>
+      <b>⚡ Transfer Queue</b><br/>
+      <sub>Multi-threaded uploads</sub>
+    </td>
+    <td align="center" width="25%" style="vertical-align: top; padding: 10px;">
+      <a href="assets/screenshots/04-file-details.jpg" target="_blank">
+        <img src="assets/screenshots/04-file-details.jpg" alt="File Details" width="220" style="border-radius: 12px; border: 1px solid rgba(255,255,255,0.15); box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
+      </a>
+      <br/>
+      <b>📄 File Details</b><br/>
+      <sub>Metadata & links</sub>
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center">
-      <b>⚡ High-Speed Transfer & Upload Queue</b><br/><br/>
-      <img src="assets/screenshots/upload-transfer-system.jpg" alt="Upload Transfer System" width="100%" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" /><br/>
-      <sub>Multi-threaded chunked uploads, real-time speed gauges, automatic retry, and persistent transfer queue.</sub>
+    <td align="center" width="25%" style="vertical-align: top; padding: 10px;">
+      <a href="assets/screenshots/05-media-previewer.jpg" target="_blank">
+        <img src="assets/screenshots/05-media-previewer.jpg" alt="Media Preview" width="220" style="border-radius: 12px; border: 1px solid rgba(255,255,255,0.15); box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
+      </a>
+      <br/>
+      <b>🔍 Media Previewer</b><br/>
+      <sub>Full-screen streaming</sub>
     </td>
-    <td width="50%" align="center">
-      <b>🔍 Media Streamer & File Previewer</b><br/><br/>
-      <img src="assets/screenshots/file-preview.jpg" alt="File Preview" width="100%" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" /><br/>
-      <sub>Instant in-app preview for images, documents, video streaming, and detailed file metadata.</sub>
+    <td align="center" width="25%" style="vertical-align: top; padding: 10px;">
+      <a href="assets/screenshots/06-power-tools.jpg" target="_blank">
+        <img src="assets/screenshots/06-power-tools.jpg" alt="More Features" width="220" style="border-radius: 12px; border: 1px solid rgba(255,255,255,0.15); box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
+      </a>
+      <br/>
+      <b>🧩 Power Tools</b><br/>
+      <sub>Sharing & utilities</sub>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <b>🧩 Power Tools & Direct Link Sharing</b><br/><br/>
-      <img src="assets/screenshots/more-features.jpg" alt="More Features" width="100%" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" /><br/>
-      <sub>Direct download links, multi-channel syncing, cache cleaning, and advanced utilities.</sub>
+    <td align="center" width="25%" style="vertical-align: top; padding: 10px;">
+      <a href="assets/screenshots/07-account-profile.png" target="_blank">
+        <img src="assets/screenshots/07-account-profile.png" alt="Profile Screen" width="220" style="border-radius: 12px; border: 1px solid rgba(255,255,255,0.15); box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
+      </a>
+      <br/>
+      <b>👤 Account & Sessions</b><br/>
+      <sub>Profile & security</sub>
     </td>
-    <td width="50%" align="center">
-      <b>👤 Account & Multi-Session Manager</b><br/><br/>
-      <img src="assets/screenshots/profile-account.jpg" alt="Profile Account" width="100%" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" /><br/>
-      <sub>Telegram profile connection, secure session authentication, and account statistics.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <b>⚙️ Preferences & Performance Settings</b><br/><br/>
-      <img src="assets/screenshots/settings-screen.jpg" alt="Settings Screen" width="60%" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" /><br/>
-      <sub>Customizable themes (Dark/Light), network concurrency sliders, download directories, and security controls.</sub>
+    <td align="center" width="25%" style="vertical-align: top; padding: 10px;">
+      <a href="assets/screenshots/08-settings-preferences.jpg" target="_blank">
+        <img src="assets/screenshots/08-settings-preferences.jpg" alt="Settings" width="220" style="border-radius: 12px; border: 1px solid rgba(255,255,255,0.15); box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
+      </a>
+      <br/>
+      <b>⚙️ Preferences</b><br/>
+      <sub>Themes & bandwidth</sub>
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <sub>💡 <i>Click on any screenshot thumbnail to view full-resolution image.</i></sub>
+</p>
 
 ---
 
@@ -87,7 +116,7 @@ Choose the optimized binary for your device:
 
 ## ✨ Key Features
 
-- ☁️ **Unlimited Cloud Storage:** Leverage Telegram's secure distributed cloud infrastructure to store and stream files without storage limits.
+- ☁️ **Unlimited Cloud Storage:** Leverage Telegram's secure distributed cloud infrastructure to store and stream files without storage boundaries.
 - 🔒 **End-to-End Encryption:** Client-side encryption ensures only you have access to your data.
 - ⚡ **Multi-Part Chunked Transfers:** Multi-stream concurrent uploading and downloading with automatic resumption on network switches.
 - 🔔 **Native Mobile Background Transfers:** Android foreground service with live persistent notifications and MediaStore integration.
